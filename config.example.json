@@ -1,0 +1,33 @@
+{
+  "serverName": "Diamond RP",
+  "ip": "0.0.0.0",
+  "port": 7777,
+  "version": "1.0.0",
+  "minClientVersion": "1.0.0",
+  "downloadUrl": "https://cdn.diamondrp.example.com/gamedata/latest.zip",
+  "fileSize": 524288000,
+  "fileChecksum": "SHA256_HASH_AQUI",
+  "changelog": [
+    "Novo mapa da cidade central",
+    "Correção de bugs no sistema de veículos",
+    "Melhorias de performance"
+  ],
+  "news": [
+    {
+      "id": "1",
+      "title": "Nova atualização disponível!",
+      "description": "Confira as novidades da versão 1.0.0",
+      "imageUrl": "https://cdn.diamondrp.example.com/news/1.jpg",
+      "date": "01/07/2026",
+      "url": "https://diamondrp.example.com/news/1"
+    }
+  ],
+  "socials": {
+    "discord": "https://discord.gg/diamondrp",
+    "instagram": "https://instagram.com/diamondrp",
+    "whatsapp": "https://wa.me/5500000000000",
+    "website": "https://diamondrp.example.com"
+  },
+  "maintenance": false,
+  "maintenanceMessage": null
+}

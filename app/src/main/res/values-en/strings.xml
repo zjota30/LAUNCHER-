@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diamond RP Launcher</string>
+
+    <string name="hint_nickname">Enter your nickname</string>
+    <string name="btn_play">PLAY</string>
+    <string name="label_server_status">Server Status</string>
+    <string name="label_players_online">Players Online</string>
+    <string name="label_ping">Ping</string>
+    <string name="label_version">Version</string>
+    <string name="status_online">Online</string>
+    <string name="status_offline">Offline</string>
+    <string name="label_news">News</string>
+
+    <string name="social_discord">Discord</string>
+    <string name="social_instagram">Instagram</string>
+    <string name="social_whatsapp">WhatsApp</string>
+
+    <string name="update_title">Update Available</string>
+    <string name="update_subtitle">A new game version is available</string>
+    <string name="btn_update">UPDATE</string>
+    <string name="btn_later">Later</string>
+    <string name="changelog_title">What\'s new</string>
+
+    <string name="download_title">Downloading files</string>
+    <string name="download_speed_format">%1$s/s</string>
+    <string name="download_progress_format">%1$d%%</string>
+    <string name="download_time_remaining">Time remaining: %1$s</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_resume">Resume</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_clear_cache">Clear cache</string>
+    <string name="settings_check_update">Check for updates</string>
+    <string name="settings_app_info">App information</string>
+
+    <string name="about_title">About</string>
+
+    <string name="error_network">No internet connection. Check your network and try again.</string>
+    <string name="error_config_load">Could not load server configuration.</string>
+    <string name="error_download_failed">Download failed. Please try again.</string>
+    <string name="error_file_corrupted">The downloaded file is corrupted.</string>
+    <string name="error_nickname_empty">Enter a nickname to continue.</string>
+    <string name="error_client_not_found">SA-MP Mobile client not found. Please install it first.</string>
+</resources>

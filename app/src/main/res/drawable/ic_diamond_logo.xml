@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Logo placeholder em formato de diamante. Substitua pela arte final da marca
+     (recomenda-se exportar o logo oficial como VectorDrawable ou usar um PNG em
+     res/drawable-xxhdpi/logo_diamond_rp.png referenciado no lugar deste arquivo). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <path
+        android:fillColor="@color/diamond_red"
+        android:pathData="M60,10 L100,45 L60,110 L20,45 Z" />
+    <path
+        android:fillColor="@color/diamond_white"
+        android:fillAlpha="0.15"
+        android:pathData="M60,10 L100,45 L60,60 Z" />
+    <path
+        android:strokeColor="@color/diamond_white"
+        android:strokeWidth="2"
+        android:strokeAlpha="0.6"
+        android:pathData="M20,45 L100,45" />
+</vector>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta principal Diamond RP -->
+    <color name="diamond_red">#E11D2E</color>
+    <color name="diamond_red_dark">#A8121F</color>
+    <color name="diamond_red_light">#FF4A57</color>
+
+    <color name="diamond_black">#0A0A0C</color>
+    <color name="diamond_black_surface">#151518</color>
+    <color name="diamond_black_surface_alt">#1F1F23</color>
+    <color name="diamond_black_card">#1A1A1E</color>
+
+    <color name="diamond_white">#FFFFFF</color>
+    <color name="diamond_white_soft">#E8E8EA</color>
+    <color name="diamond_grey">#8A8A93</color>
+    <color name="diamond_grey_dark">#4A4A50</color>
+
+    <color name="diamond_green_online">#3DDC84</color>
+    <color name="diamond_red_offline">#FF5252</color>
+    <color name="diamond_yellow_warning">#FFC107</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="overlay_dark">#B3000000</color>
+    <color name="overlay_light">#33FFFFFF</color>
+
+    <!-- Material3 role mapping -->
+    <color name="md_theme_primary">@color/diamond_red</color>
+    <color name="md_theme_onPrimary">@color/diamond_white</color>
+    <color name="md_theme_background">@color/diamond_black</color>
+    <color name="md_theme_onBackground">@color/diamond_white</color>
+    <color name="md_theme_surface">@color/diamond_black_surface</color>
+    <color name="md_theme_onSurface">@color/diamond_white_soft</color>
+    <color name="md_theme_surfaceVariant">@color/diamond_black_surface_alt</color>
+    <color name="md_theme_onSurfaceVariant">@color/diamond_grey</color>
+    <color name="md_theme_error">@color/diamond_red_offline</color>
+</resources>

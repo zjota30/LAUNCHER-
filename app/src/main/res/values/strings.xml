@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diamond RP Launcher</string>
+
+    <!-- Main -->
+    <string name="hint_nickname">Digite seu Nickname</string>
+    <string name="btn_play">JOGAR</string>
+    <string name="label_server_status">Status do Servidor</string>
+    <string name="label_players_online">Players Online</string>
+    <string name="label_ping">Ping</string>
+    <string name="label_version">Versão</string>
+    <string name="status_online">Online</string>
+    <string name="status_offline">Offline</string>
+    <string name="label_news">Notícias</string>
+
+    <!-- Social -->
+    <string name="social_discord">Discord</string>
+    <string name="social_instagram">Instagram</string>
+    <string name="social_whatsapp">WhatsApp</string>
+
+    <!-- Update -->
+    <string name="update_title">Atualização Disponível</string>
+    <string name="update_subtitle">Uma nova versão do jogo está disponível</string>
+    <string name="btn_update">ATUALIZAR</string>
+    <string name="btn_later">Depois</string>
+    <string name="changelog_title">Notas da atualização</string>
+
+    <!-- Download -->
+    <string name="download_title">Baixando arquivos</string>
+    <string name="download_speed_format">%1$s/s</string>
+    <string name="download_progress_format">%1$d%%</string>
+    <string name="download_time_remaining">Tempo restante: %1$s</string>
+    <string name="btn_pause">Pausar</string>
+    <string name="btn_resume">Continuar</string>
+    <string name="btn_cancel">Cancelar</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Configurações</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_language">Idioma</string>
+    <string name="settings_clear_cache">Limpar cache</string>
+    <string name="settings_check_update">Verificar atualização</string>
+    <string name="settings_app_info">Informações do aplicativo</string>
+
+    <!-- About -->
+    <string name="about_title">Sobre</string>
+
+    <!-- Errors -->
+    <string name="error_network">Sem conexão com a internet. Verifique sua rede e tente novamente.</string>
+    <string name="error_config_load">Não foi possível carregar as configurações do servidor.</string>
+    <string name="error_download_failed">Falha no download. Tente novamente.</string>
+    <string name="error_file_corrupted">Arquivo baixado está corrompido.</string>
+    <string name="error_nickname_empty">Digite um nickname para continuar.</string>
+    <string name="error_client_not_found">Cliente SA-MP Mobile não encontrado. Instale-o antes de continuar.</string>
+</resources>
